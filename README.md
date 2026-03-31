@@ -1,9 +1,9 @@
 # Hi there, I'm Ikram Bekkaoui! 👋
 
-[cite_start]I'm a **Computer Engineering Graduate** from the University of Debrecen [cite: 8, 12][cite_start], specializing in **AI, Embedded Systems, and Software Development**. [cite_start]I love building autonomous systems and bridging the gap between hardware and intelligent software[cite: 9, 15].
+I'm a **Computer Engineering Graduate** from the University of Debrecen [cite: 8, 12][cite_start], specializing in **AI, Embedded Systems, and Software Development**. [cite_start]I love building autonomous systems and bridging the gap between hardware and intelligent software[cite: 9, 15].
 
 ### 🚀 A Little About Me
-* [cite_start]🏆 **Serial Innovator:** I am a two-time winner of the EIT Health Hackathon (2024 & 2025). [cite_start]Recently, I secured **3rd Prize at the European Finals** in Paris, pitching 'Mira', an AI-driven FemTech solution[cite: 73, 74, 75].
+* 🏆 **Serial Innovator:** I am a two-time winner of the EIT Health Hackathon (2024 & 2025). [cite_start]Recently, I secured **3rd Prize at the European Finals** in Paris, pitching 'Mira', an AI-driven FemTech solution[cite: 73, 74, 75].
 * [cite_start]💻 **Experience:** I previously worked as an Automation Engineer at LineOfCode, where I built an automated parking system with 95% license plate recognition accuracy using Python, OpenCV, YOLO, and Raspberry Pi[cite: 25, 26, 29].
 * [cite_start]🎓 **Academics:** I studied Computer Science Engineering under the prestigious Stipendium Hungaricum Scholarship[cite: 12, 63, 64]. 
 * [cite_start]🌱 **Currently focusing on:** Real-time processing and edge AI deployment using TensorFlow Lite[cite: 35, 54].
